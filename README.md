@@ -79,5 +79,5 @@
 ---
 
 <h3 align="center">
-✨ "Every happens for reason" ✨
+✨ "Everything happens for reason" ✨
 </h3>
