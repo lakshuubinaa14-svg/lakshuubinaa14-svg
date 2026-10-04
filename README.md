@@ -12,9 +12,14 @@
 
 - 🎓 Student at **Adhiparasakthi Engineering College**
 - 💻 Currently learning **Java Full Stack Development**
-- 🌱 Interested in Web Development and Software Technologies
-- 🚀 Passionate about creating innovative solutions
-- ✨ Believe that "Every happens for reason"
+- 🌱 Interested in **Web Development, Software Development, and AI**
+- 🚀 Currently working on **Adventure Atlas** — a travel and adventure discovery application **(In Progress)**
+- 🗺️ Adventure Atlas helps users **discover destinations, save places, plan trips, track adventures, and earn achievements**
+- 🔐 Worked on **Cryptocurrency Fraud Detection using Machine Learning**
+- 🛠️ Exploring **Java, HTML, CSS, JavaScript, React, Python, SQL, Git & GitHub**
+- 🐳 Learning **Linux, Docker, APIs, JSON, and LLMs**
+- ✨ Passionate about creating innovative and useful solutions
+- 💫 Believe that **"Everything happens for a reason."**
 
 ---
 
@@ -30,7 +35,15 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <img src="https://img.shields.io/badge/Full%20Stack%20Development-6DB33F?style=for-the-badge">
 
@@ -40,11 +53,23 @@
 
 ## 🚀 Projects
 
+### 🌍 Adventure Atlas — Travel & Adventure Discovery App
+
+> 🚧 **Project Status: In Progress**
+
+- 🌎 A travel and adventure discovery application for exploring destinations.
+- 📍 Helps users **discover places, save destinations, and plan trips**.
+- 🗺️ Includes features for **tracking adventures and visited destinations**.
+- 🏆 Users can complete adventures and **earn achievements**.
+- 💻 Currently under active development.
+
+---
+
 ### 🔐 Cryptocurrency Fraud Detection using Machine Learning
 
 - Developed a machine learning model to detect fraudulent cryptocurrency transactions.
-- Used data preprocessing, feature analysis, and classification techniques.
-- Implemented Random Forest Classifier for fraud prediction.
+- Used **data preprocessing, feature analysis, and classification techniques**.
+- Implemented **Random Forest Classifier** for fraud prediction.
 
 ---
 
@@ -79,5 +104,5 @@
 ---
 
 <h3 align="center">
-✨ "Everything happens for reason" ✨
+✨ "Everything happens for a reason." ✨
 </h3>
